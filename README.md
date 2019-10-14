@@ -3,6 +3,7 @@
 
 # Steps to Produce
 + Download the 7-Zip source code from https://sourceforge.net/projects/sevenzip/files/7-Zip/17.00/7z1700-src.7z/download
+  + Note: Newer versions may be available
 + Extract the 7-Zip source code to %userprofile%\Desktop\7z1700-src
 + Right-click %userprofile%\Desktop\7z1700-src, select Properties, un-check Read-only, and click OK
 + In the "Confirm Attribute Changes" window, click OK
